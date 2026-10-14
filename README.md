@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Automated-Intercompany-Reconciliation-Engines/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Automated-Intercompany-Reconciliation-Engines?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Automated-Intercompany-Reconciliation-Engines/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Automated-Intercompany-Reconciliation-Engines?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Automated-Intercompany-Reconciliation-Engines/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Automated-Intercompany-Reconciliation-Engines?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Automated-Intercompany-Reconciliation-Engines/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Automated-Intercompany-Reconciliation-Engines/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License: MIT" /></a>
@@ -145,11 +145,11 @@ The table below compiles leading commercial platforms sorted descending by compa
 
 Explore production-grade open-source reconciliation engines, ERP frameworks, programmable financial ledgers, and automated payment settlement systems. 
 
-Projects below are strictly **sorted descending by GitHub star count**, with verified star badges linking directly to each project's stargazers community:
+Projects below are strictly **sorted descending by GitHub Stars_Count**, with verified Stars_Badges linking directly to each project's stargazers community:
 
 ---
 
-### 1. [Odoo](https://github.com/odoo/odoo) [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)
+### 1. [Odoo](https://github.com/odoo/odoo) [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers)
 - **Repository**: [`odoo/odoo`](https://github.com/odoo/odoo) 📦
 - **License**: LGPL-3.0 ⚖️
 - **Tech Stack**: Python, JavaScript, PostgreSQL
@@ -157,7 +157,7 @@ Projects below are strictly **sorted descending by GitHub star count**, with ver
 
 ---
 
-### 2. [Hyperswitch](https://github.com/juspay/hyperswitch) [![GitHub stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white)](https://github.com/juspay/hyperswitch/stargazers)
+### 2. [Hyperswitch](https://github.com/juspay/hyperswitch) [![GitHub_Stars](https://img.shields.io/github/stars/juspay/hyperswitch?style=social&color=white)](https://github.com/juspay/hyperswitch/stargazers)
 - **Repository**: [`juspay/hyperswitch`](https://github.com/juspay/hyperswitch) 📦
 - **License**: Apache-2.0 ⚖️
 - **Tech Stack**: Rust, PostgreSQL, Redis
@@ -165,7 +165,7 @@ Projects below are strictly **sorted descending by GitHub star count**, with ver
 
 ---
 
-### 3. [ERPNext](https://github.com/frappe/erpnext) [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)
+### 3. [ERPNext](https://github.com/frappe/erpnext) [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers)
 - **Repository**: [`frappe/erpnext`](https://github.com/frappe/erpnext) 📦
 - **License**: GPL-3.0 ⚖️
 - **Tech Stack**: Python, Frappe Framework, MariaDB / PostgreSQL, Redis
@@ -173,7 +173,7 @@ Projects below are strictly **sorted descending by GitHub star count**, with ver
 
 ---
 
-### 4. [Midday](https://github.com/midday-ai/midday) [![GitHub stars](https://img.shields.io/github/stars/midday-ai/midday?style=social&color=white)](https://github.com/midday-ai/midday/stargazers)
+### 4. [Midday](https://github.com/midday-ai/midday) [![GitHub_Stars](https://img.shields.io/github/stars/midday-ai/midday?style=social&color=white)](https://github.com/midday-ai/midday/stargazers)
 - **Repository**: [`midday-ai/midday`](https://github.com/midday-ai/midday) 📦
 - **License**: AGPL-3.0 ⚖️
 - **Tech Stack**: TypeScript, Next.js, Supabase, TailwindCSS
@@ -181,7 +181,7 @@ Projects below are strictly **sorted descending by GitHub star count**, with ver
 
 ---
 
-### 5. [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) [![GitHub stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers)
+### 5. [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) [![GitHub_Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers)
 - **Repository**: [`invoiceninja/invoiceninja`](https://github.com/invoiceninja/invoiceninja) 📦
 - **License**: Source Available / Elastic License 2.0 ⚖️
 - **Tech Stack**: PHP, Laravel, Flutter, MySQL
@@ -189,7 +189,7 @@ Projects below are strictly **sorted descending by GitHub star count**, with ver
 
 ---
 
-### 6. [Kill Bill](https://github.com/killbill/killbill) [![GitHub stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers)
+### 6. [Kill Bill](https://github.com/killbill/killbill) [![GitHub_Stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers)
 - **Repository**: [`killbill/killbill`](https://github.com/killbill/killbill) 📦
 - **License**: Apache-2.0 ⚖️
 - **Tech Stack**: Java, OSGi, PostgreSQL / MySQL
@@ -197,7 +197,7 @@ Projects below are strictly **sorted descending by GitHub star count**, with ver
 
 ---
 
-### 7. [Apache Fineract](https://github.com/apache/fineract) [![GitHub stars](https://img.shields.io/github/stars/apache/fineract?style=social&color=white)](https://github.com/apache/fineract/stargazers)
+### 7. [Apache Fineract](https://github.com/apache/fineract) [![GitHub_Stars](https://img.shields.io/github/stars/apache/fineract?style=social&color=white)](https://github.com/apache/fineract/stargazers)
 - **Repository**: [`apache/fineract`](https://github.com/apache/fineract) 📦
 - **License**: Apache-2.0 ⚖️
 - **Tech Stack**: Java, Spring Boot, MySQL / PostgreSQL
@@ -205,7 +205,7 @@ Projects below are strictly **sorted descending by GitHub star count**, with ver
 
 ---
 
-### 8. [OpenBoxes](https://github.com/openboxes/openboxes) [![GitHub stars](https://img.shields.io/github/stars/openboxes/openboxes?style=social&color=white)](https://github.com/openboxes/openboxes/stargazers)
+### 8. [OpenBoxes](https://github.com/openboxes/openboxes) [![GitHub_Stars](https://img.shields.io/github/stars/openboxes/openboxes?style=social&color=white)](https://github.com/openboxes/openboxes/stargazers)
 - **Repository**: [`openboxes/openboxes`](https://github.com/openboxes/openboxes) 📦
 - **License**: EPL-1.0 ⚖️
 - **Tech Stack**: Groovy, Grails, Java, MySQL
@@ -213,7 +213,7 @@ Projects below are strictly **sorted descending by GitHub star count**, with ver
 
 ---
 
-### 9. [Moov ACH](https://github.com/moov-io/ach) [![GitHub stars](https://img.shields.io/github/stars/moov-io/ach?style=social&color=white)](https://github.com/moov-io/ach/stargazers)
+### 9. [Moov ACH](https://github.com/moov-io/ach) [![GitHub_Stars](https://img.shields.io/github/stars/moov-io/ach?style=social&color=white)](https://github.com/moov-io/ach/stargazers)
 - **Repository**: [`moov-io/ach`](https://github.com/moov-io/ach) 📦
 - **License**: Apache-2.0 ⚖️
 - **Tech Stack**: Go (Golang), Docker
@@ -221,7 +221,7 @@ Projects below are strictly **sorted descending by GitHub star count**, with ver
 
 ---
 
-### 10. [Formance Stack](https://github.com/formancehq/stack) [![GitHub stars](https://img.shields.io/github/stars/formancehq/stack?style=social&color=white)](https://github.com/formancehq/stack/stargazers)
+### 10. [Formance Stack](https://github.com/formancehq/stack) [![GitHub_Stars](https://img.shields.io/github/stars/formancehq/stack?style=social&color=white)](https://github.com/formancehq/stack/stargazers)
 - **Repository**: [`formancehq/stack`](https://github.com/formancehq/stack) 📦
 - **License**: Apache-2.0 ⚖️
 - **Tech Stack**: Go (Golang), Numscript, PostgreSQL
@@ -229,7 +229,7 @@ Projects below are strictly **sorted descending by GitHub star count**, with ver
 
 ---
 
-### 11. [Matcha](https://github.com/Negentropy-Solutions/matcha) [![GitHub stars](https://img.shields.io/github/stars/Negentropy-Solutions/matcha?style=social&color=white)](https://github.com/Negentropy-Solutions/matcha/stargazers)
+### 11. [Matcha](https://github.com/Negentropy-Solutions/matcha) [![GitHub_Stars](https://img.shields.io/github/stars/Negentropy-Solutions/matcha?style=social&color=white)](https://github.com/Negentropy-Solutions/matcha/stargazers)
 - **Repository**: [`Negentropy-Solutions/matcha`](https://github.com/Negentropy-Solutions/matcha) 📦
 - **License**: AGPL-3.0 ⚖️
 - **Tech Stack**: Python, JavaScript, ERPNext / Frappe (>=15.0.0)
@@ -237,7 +237,7 @@ Projects below are strictly **sorted descending by GitHub star count**, with ver
 
 ---
 
-### 12. [YARS (Yet Another Reconciliation System)](https://pkg.go.dev/github.com/aferryc/yars) [![GitHub stars](https://img.shields.io/github/stars/aferryc/yars?style=social&color=white)](https://github.com/aferryc/yars/stargazers)
+### 12. [YARS (Yet Another Reconciliation System)](https://pkg.go.dev/github.com/aferryc/yars) [![GitHub_Stars](https://img.shields.io/github/stars/aferryc/yars?style=social&color=white)](https://github.com/aferryc/yars/stargazers)
 - **Repository**: [`aferryc/yars`](https://github.com/aferryc/yars) 📦
 - **License**: MIT ⚖️
 - **Tech Stack**: Go (Golang), Apache Kafka, PostgreSQL, Google Cloud Storage, Docker
@@ -277,7 +277,7 @@ We welcome additions, corrections, and updates from financial engineers, corpora
 1. **Fork** the repository 🍴
 2. **Add or update entries** in [`README.md`](README.md):
    - For SaaS products: include verified starting price, free tier/trial limits, company valuation/revenue, and intercompany features.
-   - For Open-Source projects: provide GitHub link, star badge, license, tech stack, and reconciliation details.
+   - For Open-Source projects: provide GitHub link, Stars_Badge, license, tech stack, and reconciliation details.
 3. Keep descriptions objective, factual, and backed by verifiable documentation.
 4. Submit a **Pull Request** with a concise description of your changes.
 
